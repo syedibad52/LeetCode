@@ -11,6 +11,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/syedibad52/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
