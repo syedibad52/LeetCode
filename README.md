@@ -8,6 +8,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/syedibad52/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/syedibad52/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/syedibad52/LeetCode/tree/master/0661-image-smoother) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 ## Math
 |  |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/syedibad52/LeetCode/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
