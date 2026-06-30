@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/syedibad52/LeetCode/tree/master/0036-valid-sudoku) |
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0598-range-addition-ii](https://github.com/syedibad52/LeetCode/tree/master/0598-range-addition-ii) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/syedibad52/LeetCode/tree/master/0036-valid-sudoku) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/syedibad52/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -87,5 +89,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/syedibad52/LeetCode/tree/master/0036-valid-sudoku) |
 | [0661-image-smoother](https://github.com/syedibad52/LeetCode/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
