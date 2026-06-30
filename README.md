@@ -13,6 +13,7 @@
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/syedibad52/LeetCode/tree/master/0661-image-smoother) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
+| [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/syedibad52/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [0771-jewels-and-stones](https://github.com/syedibad52/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/syedibad52/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
+| [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sliding Window
 |  |
 | ------- |
