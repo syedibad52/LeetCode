@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/syedibad52/LeetCode/tree/master/0036-valid-sudoku) |
+| [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0598-range-addition-ii](https://github.com/syedibad52/LeetCode/tree/master/0598-range-addition-ii) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
+| [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 ## Memoization
 |  |
 | ------- |
@@ -93,5 +95,6 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/syedibad52/LeetCode/tree/master/0036-valid-sudoku) |
+| [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0661-image-smoother](https://github.com/syedibad52/LeetCode/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
