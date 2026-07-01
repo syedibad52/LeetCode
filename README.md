@@ -42,6 +42,7 @@
 | ------- |
 | [0038-count-and-say](https://github.com/syedibad52/LeetCode/tree/master/0038-count-and-say) |
 | [0504-base-7](https://github.com/syedibad52/LeetCode/tree/master/0504-base-7) |
+| [0541-reverse-string-ii](https://github.com/syedibad52/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
 | [0771-jewels-and-stones](https://github.com/syedibad52/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/syedibad52/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/syedibad52/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/syedibad52/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 ## Bit Manipulation
