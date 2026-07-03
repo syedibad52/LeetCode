@@ -6,6 +6,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/syedibad52/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/syedibad52/LeetCode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/syedibad52/LeetCode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/syedibad52/LeetCode/tree/master/0771-jewels-and-stones) |
