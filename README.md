@@ -88,6 +88,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
 ## Graph Theory
 |  |
@@ -120,4 +121,16 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
