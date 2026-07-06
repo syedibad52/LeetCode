@@ -47,6 +47,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/syedibad52/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/syedibad52/LeetCode/tree/master/0038-count-and-say) |
 | [0504-base-7](https://github.com/syedibad52/LeetCode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/syedibad52/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -62,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/syedibad52/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0541-reverse-string-ii](https://github.com/syedibad52/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/syedibad52/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
@@ -78,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/syedibad52/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
