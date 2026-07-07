@@ -110,6 +110,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/syedibad52/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
 ## Matrix
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/syedibad52/LeetCode/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/syedibad52/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
