@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/syedibad52/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/syedibad52/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/syedibad52/LeetCode/tree/master/0056-merge-intervals) |
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/syedibad52/LeetCode/tree/master/0056-merge-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/syedibad52/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
