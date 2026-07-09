@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/syedibad52/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/syedibad52/LeetCode/tree/master/0056-merge-intervals) |
+| [0090-subsets-ii](https://github.com/syedibad52/LeetCode/tree/master/0090-subsets-ii) |
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -73,6 +74,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/syedibad52/LeetCode/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 ## Greedy
@@ -127,6 +129,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/syedibad52/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/syedibad52/LeetCode/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/syedibad52/LeetCode/tree/master/0090-subsets-ii) |
 ## Brainteaser
 |  |
 | ------- |
