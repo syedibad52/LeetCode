@@ -10,6 +10,7 @@
 | [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/syedibad52/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/syedibad52/LeetCode/tree/master/0056-merge-intervals) |
+| [0084-largest-rectangle-in-histogram](https://github.com/syedibad52/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/syedibad52/LeetCode/tree/master/0090-subsets-ii) |
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -143,6 +144,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/syedibad52/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/syedibad52/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/syedibad52/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
