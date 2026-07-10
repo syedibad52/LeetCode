@@ -6,7 +6,7 @@ class Solution:
             if x not in d:
                 d[x] = [1, i, i]   # count, first, last
             else:
-                d[x][0] += 2
+                d[x][0] += 1
                 d[x][2] = i
         degree = max(v[0] for v in d.values())
         ans = len(nums)
