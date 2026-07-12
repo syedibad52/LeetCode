@@ -28,6 +28,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/syedibad52/LeetCode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
