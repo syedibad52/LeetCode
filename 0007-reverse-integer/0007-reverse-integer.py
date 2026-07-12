@@ -1,6 +1,6 @@
 class Solution:
     def reverse(self, x):
-        sign = -1 if x < 1 else 1
+        sign = -1 if x < 0 else 1
         x = abs(x)
 
         rev = int(str(x)[::-1]) * sign
