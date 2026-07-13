@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/syedibad52/LeetCode/tree/master/0175-combine-two-tables) |
+| [0178-rank-scores](https://github.com/syedibad52/LeetCode/tree/master/0178-rank-scores) |
 ## Breadth-First Search
 |  |
 | ------- |
