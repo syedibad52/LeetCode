@@ -36,6 +36,7 @@
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
+| [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
 | [0504-base-7](https://github.com/syedibad52/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/syedibad52/LeetCode/tree/master/0598-range-addition-ii) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/syedibad52/LeetCode/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
+| [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
@@ -103,12 +105,14 @@
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/syedibad52/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
+| [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
 ## Depth-First Search
 |  |
@@ -150,6 +154,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
 ## Stack
 |  |
@@ -189,4 +194,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/syedibad52/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
