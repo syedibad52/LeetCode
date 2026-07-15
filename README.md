@@ -16,6 +16,7 @@
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/syedibad52/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/syedibad52/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/syedibad52/LeetCode/tree/master/0056-merge-intervals) |
+| [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/syedibad52/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -56,6 +58,7 @@
 | [0037-sudoku-solver](https://github.com/syedibad52/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
 | [0166-fraction-to-recurring-decimal](https://github.com/syedibad52/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -205,4 +208,24 @@
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
