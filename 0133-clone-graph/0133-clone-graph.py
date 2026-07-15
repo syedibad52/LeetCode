@@ -1,7 +1,7 @@
 class Solution:
     def cloneGraph(self, node):
         if not node:
-            return None
+            return None 
 
         d = {}
 
