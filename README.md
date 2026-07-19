@@ -8,6 +8,7 @@
 | [0037-sudoku-solver](https://github.com/syedibad52/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/syedibad52/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/syedibad52/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/syedibad52/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/syedibad52/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/syedibad52/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/syedibad52/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/syedibad52/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/syedibad52/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/syedibad52/LeetCode/tree/master/0090-subsets-ii) |
 ## Brainteaser
 |  |
