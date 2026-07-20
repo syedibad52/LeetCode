@@ -8,6 +8,7 @@
 | [0037-sudoku-solver](https://github.com/syedibad52/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/syedibad52/LeetCode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/syedibad52/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/syedibad52/LeetCode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/syedibad52/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/syedibad52/LeetCode/tree/master/0056-merge-intervals) |
@@ -55,6 +56,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/syedibad52/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/syedibad52/LeetCode/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/syedibad52/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/syedibad52/LeetCode/tree/master/0229-majority-element-ii) |
@@ -179,6 +181,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/syedibad52/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/syedibad52/LeetCode/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/syedibad52/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/syedibad52/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/syedibad52/LeetCode/tree/master/0090-subsets-ii) |
 ## Brainteaser
