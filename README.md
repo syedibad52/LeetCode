@@ -128,6 +128,7 @@
 | [0063-unique-paths-ii](https://github.com/syedibad52/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/syedibad52/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/syedibad52/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/syedibad52/LeetCode/tree/master/0377-combination-sum-iv) |
@@ -184,6 +185,7 @@
 | [0047-permutations-ii](https://github.com/syedibad52/LeetCode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/syedibad52/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/syedibad52/LeetCode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/syedibad52/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -205,11 +207,13 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/syedibad52/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/syedibad52/LeetCode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/syedibad52/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0100-same-tree](https://github.com/syedibad52/LeetCode/tree/master/0100-same-tree) |
 ## Database
 |  |
@@ -279,4 +283,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/syedibad52/LeetCode/tree/master/0207-course-schedule) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/syedibad52/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
