@@ -42,6 +42,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/syedibad52/LeetCode/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/syedibad52/LeetCode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/syedibad52/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedibad52/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/syedibad52/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/syedibad52/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/syedibad52/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/syedibad52/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/syedibad52/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/syedibad52/LeetCode/tree/master/0085-maximal-rectangle) |
@@ -292,4 +294,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/syedibad52/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/syedibad52/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
