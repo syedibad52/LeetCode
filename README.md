@@ -76,6 +76,7 @@
 | [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/syedibad52/LeetCode/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/syedibad52/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/syedibad52/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -251,6 +252,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/syedibad52/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/syedibad52/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -312,4 +314,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/syedibad52/LeetCode/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
