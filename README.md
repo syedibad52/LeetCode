@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/syedibad52/LeetCode/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/syedibad52/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/syedibad52/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/syedibad52/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
@@ -117,6 +118,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/syedibad52/LeetCode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/syedibad52/LeetCode/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
 | [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
