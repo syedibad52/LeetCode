@@ -165,6 +165,7 @@
 | [0133-clone-graph](https://github.com/syedibad52/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/syedibad52/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/syedibad52/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/syedibad52/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
 ## Graph Theory
 |  |
@@ -172,6 +173,7 @@
 | [0133-clone-graph](https://github.com/syedibad52/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/syedibad52/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/syedibad52/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/syedibad52/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
 ## Eulerian Circuit
 |  |
@@ -249,6 +251,7 @@
 | [0207-course-schedule](https://github.com/syedibad52/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/syedibad52/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
+| [0310-minimum-height-trees](https://github.com/syedibad52/LeetCode/tree/master/0310-minimum-height-trees) |
 ## Linked List
 |  |
 | ------- |
@@ -308,6 +311,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/syedibad52/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/syedibad52/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/syedibad52/LeetCode/tree/master/0310-minimum-height-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
