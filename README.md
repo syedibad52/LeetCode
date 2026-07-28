@@ -49,6 +49,7 @@
 | [0070-climbing-stairs](https://github.com/syedibad52/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedibad52/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/syedibad52/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/syedibad52/LeetCode/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -79,6 +80,7 @@
 | [0133-clone-graph](https://github.com/syedibad52/LeetCode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/syedibad52/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/syedibad52/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/syedibad52/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/syedibad52/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/syedibad52/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0202-happy-number](https://github.com/syedibad52/LeetCode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/syedibad52/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/syedibad52/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
