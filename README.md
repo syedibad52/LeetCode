@@ -32,6 +32,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0598-range-addition-ii](https://github.com/syedibad52/LeetCode/tree/master/0598-range-addition-ii) |
+| [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/syedibad52/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/syedibad52/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
@@ -67,6 +68,7 @@
 | [0179-largest-number](https://github.com/syedibad52/LeetCode/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/syedibad52/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/syedibad52/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 ## Hash Table
@@ -116,6 +118,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/syedibad52/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0202-happy-number](https://github.com/syedibad52/LeetCode/tree/master/0202-happy-number) |
 | [0541-reverse-string-ii](https://github.com/syedibad52/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0917-reverse-only-letters](https://github.com/syedibad52/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 ## Bit Manipulation
@@ -133,6 +136,7 @@
 | [0179-largest-number](https://github.com/syedibad52/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/syedibad52/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 ## Dynamic Programming
 |  |
@@ -301,6 +305,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/syedibad52/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Union-Find
 |  |
 | ------- |
