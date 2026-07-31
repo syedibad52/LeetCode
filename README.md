@@ -177,6 +177,7 @@
 | [0207-course-schedule](https://github.com/syedibad52/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/syedibad52/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/syedibad52/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/syedibad52/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
 ## Graph Theory
 |  |
@@ -270,6 +271,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/syedibad52/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/syedibad52/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/syedibad52/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -341,4 +343,5 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/syedibad52/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
