@@ -21,6 +21,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/syedibad52/LeetCode/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedibad52/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/syedibad52/LeetCode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/syedibad52/LeetCode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/syedibad52/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/syedibad52/LeetCode/tree/master/0198-house-robber) |
@@ -312,6 +313,7 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/syedibad52/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/syedibad52/LeetCode/tree/master/0162-find-peak-element) |
 | [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 ## Union-Find
 |  |
