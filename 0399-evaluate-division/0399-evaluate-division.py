@@ -2,35 +2,27 @@ from collections import defaultdict
 
 class Solution:
     def calcEquation(self, equations, values, queries):
-        graph = defaultdict(list)
+        g = defaultdict(list)
 
-        # Build graph
-        for i in range(len(equations)):
-            a, b = equations[i]
-            v = values[i]
-            graph[a].append((b, v))
-            graph[b].append((a, 1 / v))
+        for (a, b), v in zip(equations, values):
+            g[a].append((b, v))
+            g[b].append((a, 1 / v))
 
-        def dfs(cur, target, visited):
-            if cur == target:
-                return 1.0
-
-            visited.add(cur)
-
-            for nei, val in graph[cur]:
-                if nei not in visited:
-                    ans = dfs(nei, target, visited)
+        def dfs(x, y, val, vis):
+            if x == y:
+                return val
+            vis.add(x)
+            for nxt, w in g[x]:
+                if nxt not in vis:
+                    ans = dfs(nxt, y, val * w, vis)
                     if ans != -1:
-                        return val * ans
-
+                        return ans
             return -1
 
-        ans = []
-
+        res = []
         for a, b in queries:
-            if a not in graph or b not in graph:
-                ans.append(-1.0)
+            if a not in g or b not in g:
+                res.append(-1.0)
             else:
-                ans.append(dfs(a, b, set()))
-
-        return ans
+                res.append(dfs(a, b, 1, set()))
+        return res
