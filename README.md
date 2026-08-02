@@ -32,6 +32,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/syedibad52/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0598-range-addition-ii](https://github.com/syedibad52/LeetCode/tree/master/0598-range-addition-ii) |
@@ -103,6 +104,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/syedibad52/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/syedibad52/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/syedibad52/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 | [0504-base-7](https://github.com/syedibad52/LeetCode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/syedibad52/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
@@ -178,6 +180,7 @@
 | [0207-course-schedule](https://github.com/syedibad52/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/syedibad52/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/syedibad52/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/syedibad52/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
 ## Graph Theory
@@ -187,6 +190,7 @@
 | [0207-course-schedule](https://github.com/syedibad52/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/syedibad52/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/syedibad52/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
 ## Eulerian Circuit
 |  |
@@ -266,6 +270,7 @@
 | [0210-course-schedule-ii](https://github.com/syedibad52/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/syedibad52/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 ## Linked List
 |  |
 | ------- |
@@ -319,6 +324,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/syedibad52/LeetCode/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 ## Simulation
 |  |
 | ------- |
@@ -346,4 +352,8 @@
 | ------- |
 | [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/syedibad52/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
