@@ -4,28 +4,33 @@ class Solution:
     def calcEquation(self, equations, values, queries):
         graph = defaultdict(list)
 
-        for (a, b), v in zip(equations, values):
+        # Build graph
+        for i in range(len(equations)):
+            a, b = equations[i]
+            v = values[i]
             graph[a].append((b, v))
             graph[b].append((a, 1 / v))
 
-        def dfs(x, y, vis):
-            if x == y:
+        def dfs(cur, target, visited):
+            if cur == target:
                 return 1.0
-            vis.add(x)
 
-            for nxt, val in graph[x]:
-                if nxt not in vis:
-                    ans = dfs(nxt, y, vis)
+            visited.add(cur)
+
+            for nei, val in graph[cur]:
+                if nei not in visited:
+                    ans = dfs(nei, target, visited)
                     if ans != -1:
                         return val * ans
+
             return -1
 
-        res = []
+        ans = []
 
         for a, b in queries:
             if a not in graph or b not in graph:
-                res.append(-1.0)
+                ans.append(-1.0)
             else:
-                res.append(dfs(a, b, set()))
+                ans.append(dfs(a, b, set()))
 
-        return res
+        return ans
