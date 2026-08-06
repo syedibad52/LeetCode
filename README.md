@@ -105,6 +105,7 @@
 | [0043-multiply-strings](https://github.com/syedibad52/LeetCode/tree/master/0043-multiply-strings) |
 | [0166-fraction-to-recurring-decimal](https://github.com/syedibad52/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/syedibad52/LeetCode/tree/master/0179-largest-number) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/syedibad52/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/syedibad52/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 | [0504-base-7](https://github.com/syedibad52/LeetCode/tree/master/0504-base-7) |
@@ -183,6 +184,7 @@
 | [0133-clone-graph](https://github.com/syedibad52/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/syedibad52/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/syedibad52/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/syedibad52/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0310-minimum-height-trees](https://github.com/syedibad52/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/syedibad52/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
@@ -358,6 +360,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/syedibad52/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -371,4 +374,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/syedibad52/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/syedibad52/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
