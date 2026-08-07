@@ -46,6 +46,7 @@
 | [0697-degree-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [0999-available-captures-for-rook](https://github.com/syedibad52/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/syedibad52/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0661-image-smoother](https://github.com/syedibad52/LeetCode/tree/master/0661-image-smoother) |
+| [0999-available-captures-for-rook](https://github.com/syedibad52/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Backtracking
 |  |
 | ------- |
@@ -341,6 +343,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/syedibad52/LeetCode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/syedibad52/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0999-available-captures-for-rook](https://github.com/syedibad52/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Topological Sort
 |  |
 | ------- |
