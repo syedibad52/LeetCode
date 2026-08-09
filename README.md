@@ -35,6 +35,7 @@
 | [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/syedibad52/LeetCode/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
+| [0416-partition-equal-subset-sum](https://github.com/syedibad52/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0598-range-addition-ii](https://github.com/syedibad52/LeetCode/tree/master/0598-range-addition-ii) |
@@ -165,6 +166,7 @@
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/syedibad52/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/syedibad52/LeetCode/tree/master/0377-combination-sum-iv) |
+| [0416-partition-equal-subset-sum](https://github.com/syedibad52/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
@@ -382,4 +384,12 @@
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/syedibad52/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/syedibad52/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/syedibad52/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
