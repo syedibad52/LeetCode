@@ -63,6 +63,7 @@
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
+| [0470-implement-rand10-using-rand7](https://github.com/syedibad52/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 | [0504-base-7](https://github.com/syedibad52/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/syedibad52/LeetCode/tree/master/0598-range-addition-ii) |
@@ -392,4 +393,16 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/syedibad52/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/syedibad52/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/syedibad52/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/syedibad52/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
