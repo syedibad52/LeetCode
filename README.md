@@ -257,6 +257,7 @@
 | [0085-maximal-rectangle](https://github.com/syedibad52/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/syedibad52/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/syedibad52/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0316-remove-duplicate-letters](https://github.com/syedibad52/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Tree
 |  |
@@ -371,6 +372,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/syedibad52/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/syedibad52/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -413,4 +415,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/syedibad52/LeetCode/tree/master/0322-coin-change) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/syedibad52/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
