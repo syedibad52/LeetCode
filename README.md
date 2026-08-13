@@ -419,4 +419,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/syedibad52/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/syedibad52/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
