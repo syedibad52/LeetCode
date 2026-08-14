@@ -95,6 +95,7 @@
 | [0202-happy-number](https://github.com/syedibad52/LeetCode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/syedibad52/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/syedibad52/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -111,6 +112,7 @@
 | [0179-largest-number](https://github.com/syedibad52/LeetCode/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/syedibad52/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/syedibad52/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/syedibad52/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 | [0504-base-7](https://github.com/syedibad52/LeetCode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/syedibad52/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -331,6 +333,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/syedibad52/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/syedibad52/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -419,6 +422,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/syedibad52/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/syedibad52/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Manacher
 |  |
 | ------- |
