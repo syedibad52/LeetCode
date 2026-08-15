@@ -50,6 +50,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0999-available-captures-for-rook](https://github.com/syedibad52/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/syedibad52/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 | [0043-multiply-strings](https://github.com/syedibad52/LeetCode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/syedibad52/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0999-available-captures-for-rook](https://github.com/syedibad52/LeetCode/tree/master/0999-available-captures-for-rook) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Topological Sort
 |  |
 | ------- |
@@ -376,6 +379,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/syedibad52/LeetCode/tree/master/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Design
 |  |
 | ------- |
@@ -441,4 +445,8 @@
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
