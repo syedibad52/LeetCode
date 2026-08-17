@@ -16,21 +16,21 @@ class Solution:
             if n < 20:
                 return ten[n - 10]
             if n < 100:
-                return tens[n / 10] + (" " + one[n % 10] if n % 10 else "")
-            return one[n / 100] + " Hundred" + (" " + solve(n % 100) if n % 100 else "")
+                return tens[n // 10] + (" " + one[n % 10] if n % 10 else "")
+            return one[n // 100] + " Hundred" + (" " + solve(n % 100) if n % 100 else "")
 
         ans = []
 
         if num >= 1000000000:
-            ans += [solve(num / 1000000000), "Billion"]
+            ans += [solve(num // 1000000000), "Billion"]
             num %= 1000000000
 
         if num >= 1000000:
-            ans += [solve(num / 1000000), "Million"]
+            ans += [solve(num // 1000000), "Million"]
             num %= 1000000
 
         if num >= 1000:
-            ans += [solve(num / 1000), "Thousand"]
+            ans += [solve(num // 1000), "Thousand"]
             num %= 1000
 
         if num:
