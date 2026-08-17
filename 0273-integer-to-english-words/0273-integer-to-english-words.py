@@ -22,15 +22,15 @@ class Solution:
         ans = []
 
         if num >= 1000000000:
-            ans += [solve(num // 1000000000), "Billion"]
+            ans += [solve(num / 1000000000), "Billion"]
             num %= 1000000000
 
         if num >= 1000000:
-            ans += [solve(num // 1000000), "Million"]
+            ans += [solve(num / 1000000), "Million"]
             num %= 1000000
 
         if num >= 1000:
-            ans += [solve(num // 1000), "Thousand"]
+            ans += [solve(num / 1000), "Thousand"]
             num %= 1000
 
         if num:
