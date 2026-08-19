@@ -4,7 +4,7 @@ class Solution:
             return s
 
         rows = [""] * numRows
-        r, step = 0, 0
+        r, step = 0,11
 
         for ch in s:
             rows[r] += ch
