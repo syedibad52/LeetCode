@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/syedibad52/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/syedibad52/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/syedibad52/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/syedibad52/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/syedibad52/LeetCode/tree/master/0041-first-missing-positive) |
@@ -115,6 +116,7 @@
 | [0005-longest-palindromic-substring](https://github.com/syedibad52/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/syedibad52/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/syedibad52/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/syedibad52/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/syedibad52/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/syedibad52/LeetCode/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/syedibad52/LeetCode/tree/master/0091-decode-ways) |
@@ -135,6 +137,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/syedibad52/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0643-maximum-average-subarray-i](https://github.com/syedibad52/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
