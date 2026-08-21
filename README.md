@@ -40,6 +40,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0455-assign-cookies](https://github.com/syedibad52/LeetCode/tree/master/0455-assign-cookies) |
+| [0553-optimal-division](https://github.com/syedibad52/LeetCode/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/syedibad52/LeetCode/tree/master/0598-range-addition-ii) |
 | [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/syedibad52/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -71,6 +72,7 @@
 | [0470-implement-rand10-using-rand7](https://github.com/syedibad52/LeetCode/tree/master/0470-implement-rand10-using-rand7) |
 | [0504-base-7](https://github.com/syedibad52/LeetCode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/syedibad52/LeetCode/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/syedibad52/LeetCode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/syedibad52/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -193,6 +195,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/syedibad52/LeetCode/tree/master/0553-optimal-division) |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
