@@ -302,6 +302,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/syedibad52/LeetCode/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/syedibad52/LeetCode/tree/master/0178-rank-scores) |
+| [0196-delete-duplicate-emails](https://github.com/syedibad52/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/syedibad52/LeetCode/tree/master/0577-employee-bonus) |
 ## Breadth-First Search
 |  |
