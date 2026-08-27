@@ -114,6 +114,7 @@
 | [0697-degree-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/syedibad52/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/syedibad52/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0917-reverse-only-letters](https://github.com/syedibad52/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/syedibad52/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 | [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/syedibad52/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -363,6 +366,7 @@
 | [0229-majority-element-ii](https://github.com/syedibad52/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/syedibad52/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/syedibad52/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/syedibad52/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quickselect
 |  |
 | ------- |
@@ -472,4 +476,8 @@
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/syedibad52/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
