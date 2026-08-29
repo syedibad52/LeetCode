@@ -332,6 +332,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/syedibad52/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/syedibad52/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/syedibad52/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/syedibad52/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/syedibad52/LeetCode/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/syedibad52/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Monotonic Stack
