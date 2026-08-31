@@ -30,6 +30,7 @@
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/syedibad52/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/syedibad52/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0313-super-ugly-number](https://github.com/syedibad52/LeetCode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/syedibad52/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/syedibad52/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0334-increasing-triplet-subsequence](https://github.com/syedibad52/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
@@ -67,6 +68,7 @@
 | [0202-happy-number](https://github.com/syedibad52/LeetCode/tree/master/0202-happy-number) |
 | [0273-integer-to-english-words](https://github.com/syedibad52/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/syedibad52/LeetCode/tree/master/0313-super-ugly-number) |
 | [0342-power-of-four](https://github.com/syedibad52/LeetCode/tree/master/0342-power-of-four) |
 | [0447-number-of-boomerangs](https://github.com/syedibad52/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
@@ -196,6 +198,7 @@
 | [0213-house-robber-ii](https://github.com/syedibad52/LeetCode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/syedibad52/LeetCode/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/syedibad52/LeetCode/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/syedibad52/LeetCode/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/syedibad52/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/syedibad52/LeetCode/tree/master/0377-combination-sum-iv) |
