@@ -56,6 +56,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0999-available-captures-for-rook](https://github.com/syedibad52/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3903-smallest-stable-index-i](https://github.com/syedibad52/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -355,6 +356,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/syedibad52/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/syedibad52/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3903-smallest-stable-index-i](https://github.com/syedibad52/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Bitmask
 |  |
 | ------- |
