@@ -145,6 +145,7 @@
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
 | [0771-jewels-and-stones](https://github.com/syedibad52/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/syedibad52/LeetCode/tree/master/0917-reverse-only-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/syedibad52/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/syedibad52/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -214,6 +215,7 @@
 | [0464-can-i-win](https://github.com/syedibad52/LeetCode/tree/master/0464-can-i-win) |
 | [0509-fibonacci-number](https://github.com/syedibad52/LeetCode/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/syedibad52/LeetCode/tree/master/0553-optimal-division) |
+| [0940-distinct-subsequences-ii](https://github.com/syedibad52/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
