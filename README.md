@@ -242,6 +242,7 @@
 | [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/syedibad52/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/syedibad52/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Graph Theory
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [0100-same-tree](https://github.com/syedibad52/LeetCode/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/syedibad52/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/syedibad52/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 | [0100-same-tree](https://github.com/syedibad52/LeetCode/tree/master/0100-same-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/syedibad52/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/syedibad52/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/syedibad52/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Database
 |  |
 | ------- |
