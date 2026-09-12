@@ -56,6 +56,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0999-available-captures-for-rook](https://github.com/syedibad52/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/syedibad52/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/syedibad52/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/syedibad52/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/syedibad52/LeetCode/tree/master/3904-smallest-stable-index-ii) |
@@ -102,6 +103,7 @@
 | [0645-set-mismatch](https://github.com/syedibad52/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/syedibad52/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/syedibad52/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +224,7 @@
 | [0553-optimal-division](https://github.com/syedibad52/LeetCode/tree/master/0553-optimal-division) |
 | [0940-distinct-subsequences-ii](https://github.com/syedibad52/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/syedibad52/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -409,6 +412,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/syedibad52/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/syedibad52/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/syedibad52/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
