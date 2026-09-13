@@ -51,6 +51,7 @@
 | [0658-find-k-closest-elements](https://github.com/syedibad52/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/syedibad52/LeetCode/tree/master/0661-image-smoother) |
 | [0697-degree-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/0697-degree-of-an-array) |
+| [0835-image-overlap](https://github.com/syedibad52/LeetCode/tree/master/0835-image-overlap) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
@@ -285,6 +286,7 @@
 | [0221-maximal-square](https://github.com/syedibad52/LeetCode/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/syedibad52/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0661-image-smoother](https://github.com/syedibad52/LeetCode/tree/master/0661-image-smoother) |
+| [0835-image-overlap](https://github.com/syedibad52/LeetCode/tree/master/0835-image-overlap) |
 | [0999-available-captures-for-rook](https://github.com/syedibad52/LeetCode/tree/master/0999-available-captures-for-rook) |
 ## Backtracking
 |  |
