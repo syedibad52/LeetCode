@@ -157,6 +157,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/syedibad52/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 | [0953-verifying-an-alien-dictionary](https://github.com/syedibad52/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/syedibad52/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/syedibad52/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -177,6 +178,7 @@
 | [0658-find-k-closest-elements](https://github.com/syedibad52/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0917-reverse-only-letters](https://github.com/syedibad52/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/syedibad52/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0611-valid-triangle-number](https://github.com/syedibad52/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0942-di-string-match](https://github.com/syedibad52/LeetCode/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/syedibad52/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/syedibad52/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -226,6 +229,7 @@
 | [0553-optimal-division](https://github.com/syedibad52/LeetCode/tree/master/0553-optimal-division) |
 | [0940-distinct-subsequences-ii](https://github.com/syedibad52/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/syedibad52/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/syedibad52/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
