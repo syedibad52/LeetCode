@@ -89,6 +89,7 @@
 | [0836-rectangle-overlap](https://github.com/syedibad52/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/syedibad52/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3870-count-commas-in-range](https://github.com/syedibad52/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/syedibad52/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -231,6 +232,7 @@
 | [0553-optimal-division](https://github.com/syedibad52/LeetCode/tree/master/0553-optimal-division) |
 | [0940-distinct-subsequences-ii](https://github.com/syedibad52/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/syedibad52/LeetCode/tree/master/1025-divisor-game) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/syedibad52/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/syedibad52/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/syedibad52/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
@@ -382,6 +384,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/syedibad52/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/syedibad52/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/syedibad52/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/syedibad52/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/syedibad52/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Bitmask
@@ -449,6 +452,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/syedibad52/LeetCode/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/syedibad52/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Design
 |  |
