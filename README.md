@@ -58,6 +58,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/syedibad52/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0999-available-captures-for-rook](https://github.com/syedibad52/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/syedibad52/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1584-min-cost-to-connect-all-points](https://github.com/syedibad52/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/syedibad52/LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/syedibad52/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/syedibad52/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -278,6 +279,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/syedibad52/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
 | [0753-cracking-the-safe](https://github.com/syedibad52/LeetCode/tree/master/0753-cracking-the-safe) |
+| [1584-min-cost-to-connect-all-points](https://github.com/syedibad52/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -444,6 +446,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/syedibad52/LeetCode/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/syedibad52/LeetCode/tree/master/0399-evaluate-division) |
+| [1584-min-cost-to-connect-all-points](https://github.com/syedibad52/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Simulation
 |  |
 | ------- |
@@ -551,4 +554,20 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/syedibad52/LeetCode/tree/master/0032-longest-valid-parentheses) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/syedibad52/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/syedibad52/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/syedibad52/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/syedibad52/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
